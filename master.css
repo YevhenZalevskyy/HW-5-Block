@@ -3,6 +3,7 @@ html, body{
   font-size: 16px;
   color: #000000;
   background-color: #ffffff;
+  overflow-x: hidden;
 }
 
 .group_100{
@@ -169,13 +170,13 @@ html, body{
   height: 435px;
   color: #101010;
   position: relative;
-  padding-left: 161px;
 }
 
 .block_311{
   font-size: 17px;
   font-weight: bold;
   top: 85px;
+  left: 161px;
   position: absolute;
 
 }
@@ -241,11 +242,13 @@ p{
 .block_321{
   position: absolute;
   top: 140px;
+  left: 161px;
 }
 
 .block_331{
   position: absolute;
   top: 335px;
+  left: 161px;
 }
 
 .block_324{
