@@ -21,7 +21,7 @@ html, body{
   width: 445px;
   height: 107px;
   top: 122px;
-  left: 165px;
+  left: 130px;
   position: absolute;
 }
 
@@ -33,7 +33,7 @@ html, body{
   font-weight: normal;
   line-height: 140%;
   top: 253px;
-  left: 165px;
+  left: 130px;
   text-align: justify;
   position: absolute;
 }
@@ -42,7 +42,7 @@ html, body{
   width: 142px;
   height: 32px;
   bottom: 111px;
-  left: 163px;
+  left: 128px;
   position: absolute;
 }
 
@@ -91,7 +91,7 @@ html, body{
   width: 445px;
   height: 107px;
   top: 117px;
-  left: 176px;
+  left: 130px;
 }
 
 .block_212{
@@ -102,7 +102,7 @@ html, body{
   font-weight: normal;
   line-height: 140%;
   top: 213px;
-  left: 176px;
+  left: 130px;
   text-align: justify;
   position: absolute;
 }
@@ -110,7 +110,7 @@ html, body{
 .ln{
   height: 60px;
   width: 17.7%;
-  left: 1020px;
+  left: 975px;
   top: 117px;
   position: absolute;
   border: 1px solid #333333;
@@ -120,7 +120,7 @@ html, body{
 .fn{
   height: 60px;
   width: 17.7%;
-  left: 735px;
+  left: 690px;
   top: 117px;
   position: absolute;
   border: 1px solid #333333;
@@ -130,7 +130,7 @@ html, body{
 .pn{
   height: 60px;
   width: 37.5%;
-  left: 735px;
+  left: 690px;
   top: 201px;
   position: absolute;
   border: 1px solid #333333;
@@ -140,7 +140,7 @@ html, body{
 .sl{
   height: 60px;
   width: 37.5%;
-  left: 735px;
+  left: 690px;
   top: 285px;
   position: absolute;
   border: 1px solid #333333;
@@ -155,7 +155,7 @@ html, body{
   height: 50px;
   position: absolute;
   top: 372px;
-  left: 735px;
+  left: 690px;
   background-color: #ED4C5C;
   border-radius: 6px;
   font-size: 0.875rem;
@@ -176,7 +176,7 @@ html, body{
   font-size: 17px;
   font-weight: bold;
   top: 85px;
-  left: 161px;
+  left: 130px;
   position: absolute;
 
 }
@@ -184,7 +184,7 @@ html, body{
 .block_312{
   font-size: 17px;
   font-weight: bold;
-  left: 450px;
+  left: 420px;
   top: 85px;
   position: absolute;
 }
@@ -192,13 +192,13 @@ html, body{
 .block_322{
   position: absolute;
   top: 135px;
-  left: 450px;
+  left: 420px;
 }
 
 .block_313{
   font-size: 17px;
   font-weight: bold;
-  left: 735px;
+  left: 705px;
   top: 85px;
   position: absolute;
 }
@@ -206,19 +206,19 @@ html, body{
 .block_323{
   position: absolute;
   top: 140px;
-  left: 734px;
+  left: 704px;
 }
 
 .block_333{
   position: absolute;
   top: 165px;
-  left: 734px;
+  left: 704px;
 }
 
 .block_343{
   position: absolute;
   display: flex;
-  left: 734px;
+  left: 704px;
   top: 199px;
   justify-content: space-between;
   width: 66px;
@@ -227,7 +227,7 @@ html, body{
 .block_314{
   font-size: 17px;
   font-weight: bold;
-  left: 1022px;
+  left: 992px;
   top: 85px;
   position: absolute;
 }
@@ -242,17 +242,17 @@ p{
 .block_321{
   position: absolute;
   top: 140px;
-  left: 161px;
+  left: 131px;
 }
 
 .block_331{
   position: absolute;
   top: 335px;
-  left: 161px;
+  left: 131px;
 }
 
 .block_324{
   position: absolute;
   top: 140px;
-  left: 1028px;
+  left: 998px;
 }
