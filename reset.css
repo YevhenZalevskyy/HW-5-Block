@@ -60,6 +60,10 @@ input{
     outline: none !important;
 }
 
+a{
+  text-decoration: none;
+}
+
 /* Change Autocomplete styles in Chrome*/
 input:-webkit-autofill,
 input:-webkit-autofill:hover,
