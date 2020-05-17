@@ -7,13 +7,12 @@ html, body{
 
 header{
   background-color: #ED4C5C;
-  width: 100vw;
+  justify-content: center;
   color: #ffffff;
-  display: inline-flex;
+  display: flex;
 }
 
 .header_left{
-  margin-left: 164px;
   margin-bottom: 113px;
 }
 
@@ -65,10 +64,10 @@ header{
 }
 
 main{
-  width: 100%;
   color: #000000;
   margin-bottom: 45px;
-  display: inline-flex;
+  display: flex;
+  justify-content: center;
 }
 
 .contact{
@@ -78,7 +77,6 @@ main{
   line-height: 43px;
   height: 96px;
   margin-top: 117px;
-  margin-left: 175px;
 }
 
 .text{
@@ -87,7 +85,6 @@ main{
   font-style: normal;
   font-weight: normal;
   line-height: 140%;
-  margin-left: 176px;
   margin-bottom: 245px;
 }
 
@@ -149,9 +146,9 @@ button{
 }
 
 footer{
-  display: inline-flex;
+  display: flex;
   background-color: #fafafa;
-  width: 100vw;
+  justify-content: center;
 }
 
 .footer{
@@ -159,7 +156,6 @@ footer{
 }
 
 .footer1{
-  margin-left: 166px;
   margin-top: 85px;
   width: 254px;
   margin-right: 30px;
